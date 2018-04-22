@@ -1,0 +1,3 @@
+Usage : gcc glob.c run_glob.c ; ./a.out
+
+Setup ~ in wildcards.conf before running.
